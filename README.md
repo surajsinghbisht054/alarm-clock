@@ -6,7 +6,7 @@ Alarm Clock Written In Python
 
 # ScreenShots
 #######################################################
-![Screenshot](Analog/scr/test.png?raw=true "Screenshot1")
+![Screenshot](scr/test.png?raw=true "Screenshot1")
 #########################################################
 
 
