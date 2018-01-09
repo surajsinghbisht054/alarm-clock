@@ -4,7 +4,7 @@
 # Written By:
 #		S.S.B
 #		surajsinghbisht054@gmail.com
-#		bitforestinfo.blogspot.com
+#		http://www.bitforestinfo.com
 #
 #	
 #
