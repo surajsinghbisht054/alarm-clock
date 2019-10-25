@@ -1,8 +1,6 @@
 # alarm-clock
 Alarm Clock Written In Python 
 
-# This Script Is Created For http://bitforestinfo.blogspot.in
-# This Script is Written By
 
 # ScreenShots
 #######################################################
@@ -17,18 +15,16 @@ Tkinter (Built-In)
 Cross-Platform Support
 
 
-__author__='''
+### Author
 
-######################################################
-                By S.S.B Group                          
-######################################################
+<div style="box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);">
 
-    Suraj Singh
-    Admin
-    S.S.B Group
-    surajsinghbisht054@gmail.com
-    http://bitforestinfo.blogspot.in/
+<a href="https://surajsinghbisht054.blogspot.com" target="_blank"> 
 
-    Note: We Feel Proud To Be Indian
-######################################################
-	
+![author_profile](https://1.bp.blogspot.com/-PX4oBdjyb14/XbOCqgWpATI/AAAAAAAAELo/-jSsyNSMHmkXGXtw9qCT68qiUNqDE2NcACNcBGAsYHQ/s400/logo.png)
+
+</a>
+
+<p> Author : surajsinghbisht054@gmail.com </p>
+
+</div>
